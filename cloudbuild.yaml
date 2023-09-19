@@ -17,4 +17,4 @@ steps:
   - run
   - --filename=K8s/
   - --location=us-west1-b
-  - --cluster=mykube3
+  - --cluster=mykube
